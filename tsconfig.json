@@ -10,7 +10,8 @@
     "types": [
       "@dcloudio/types",
       "@types/wechat-miniprogram",
-      "@uni-helper/uni-app-types"
+      "@uni-helper/uni-app-types",
+      "@uni-helper/uni-ui-types" // [!code 添加了ui ++]
     ],
     "ignoreDeprecations": "5.0" //TS废弃了之前的版本 所以使用这个
   },
