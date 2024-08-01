@@ -3,8 +3,7 @@
 </script>
 
 <template>
-  <image mode="XXX" class="logo" src="/static/logo.png" />
-  <view class="index">index</view>
+  <view class="login">login</view>
 </template>
 
 <style lang="scss">
